@@ -1,0 +1,16 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+}
+
+.heading_div{
+    float:none;
+    background:white;
+    padding:10px;
+    border-radius: 20px;
+    color:black;
+}
+
+.heading_div2{
+    font-size: 18px;
+}
